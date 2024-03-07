@@ -1,0 +1,1 @@
+Ilosc zastapionych stron dla metody LRU: 13
